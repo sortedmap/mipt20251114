@@ -4,3 +4,6 @@ h1 {
     cursor: alias;
     font-size: large;
 }
+h2 {
+    font-size: 200%;
+}
