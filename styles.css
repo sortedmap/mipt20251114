@@ -4,5 +4,6 @@ h1 {
     font-size: 24px;
     cursor: alias;
     font-size: large;
-    font-size: x-small;
+    font-size: 200%; 
+
 }
